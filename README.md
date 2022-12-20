@@ -17,6 +17,11 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+<div align=center>
+	<h3>⚡️ My project ⚡️</h3>
+	<p>✨ click✨</p>
+</div>
 <!---
 kimgyul11/kimgyul11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
