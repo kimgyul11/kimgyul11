@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Kimgiyule%20github&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=🙋🏻‍♂️Kimgiyule%20github&fontSize=90" />
 </div>
 <div align=center>
 	<h3>Tech Stack🐒</h3>
