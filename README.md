@@ -20,8 +20,8 @@
 
 <div align=center>
 	<h3>⚡️ My project ⚡️</h3>
-	<span>✈️AIR LANGUAGE :</span><a href="http://3.34.53.1/">click!</>
-	<span>🚀 DODAMDODAM :</span><a href="http://3.34.53.1/">click!</>
+	<span>✈️AIR LANGUAGE :</span><a href="http://3.34.53.1/">click!</a><br>
+	<span>🚀 DODAMDODAM :</span><a href="http://3.34.53.1/">click!</a>
 </div>
 <!---
 kimgyul11/kimgyul11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
