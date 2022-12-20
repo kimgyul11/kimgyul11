@@ -22,6 +22,7 @@
 	<span>✈️ AIR LANGUAGE :</span><a href="http://3.34.53.1/">click!</a><br>
 	<span>🚀 DODAMDODAM :</span><a href="http://3.34.53.1:8089">click!</a>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgyul11&show_icons=true&theme=radical)
 <!---
 kimgyul11/kimgyul11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
