@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=🙋🏻‍♂️%20&fontSize=70" />
 </div>
 <div align=center>
-	<h3>Tech Stack🐒</h3>
+	<h3>Tech Stack</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
